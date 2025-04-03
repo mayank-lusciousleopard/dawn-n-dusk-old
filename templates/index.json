@@ -1,0 +1,1147 @@
+{
+  "sections": {
+    "16485444103c52f5e9": {
+      "type": "service",
+      "blocks": {
+        "template--14684877652053__c5690cdb-c04d-45fd-9c6c-cfee011363ca-166585292003960893-0": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "Clearer, Brighter Skin",
+            "description": "<p>Removes impurities for a more radiant complexion.<\/p>",
+            "type_icon": "img",
+            "icon": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-package\" viewbox=\"0 0 64 64\"><path d=\"M32 54.52L10 41.95v-19.9L32 9.48l22 12.57v19.9L32 54.52z\"><\/path><path d=\"M32 54.52v-19.9l22-12.57M32 34.62L10 22.05M41.7 15.02L21 28.33v8.38\"><\/path><\/svg>",
+            "image_icon": "shopify:\/\/shop_images\/Frame_9.png"
+          }
+        },
+        "template--14684877652053__c5690cdb-c04d-45fd-9c6c-cfee011363ca-166585292003960893-1": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "Reduced Acne and Irritation",
+            "description": "<p>Controls breakouts and soothes sensitive skin.<\/p>",
+            "type_icon": "img",
+            "icon": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-truck\" viewbox=\"0 0 64 64\"><path d=\"M16.5 43.22H6.88V16.5h33.14v26.72H23.94M45.42 43.22h-5.4V30.4h17.1v12.82h-4.23M57.12 30.4l-6.41-8.56H40.02\"><\/path><circle cx=\"20.24\" cy=\"43.76\" r=\"3.74\"><\/circle><path d=\"M45.42 43.23a3.82 3.82 0 1 1 0 .37v-.37\"><\/path><\/svg>",
+            "image_icon": "shopify:\/\/shop_images\/Frame_10.png"
+          }
+        },
+        "template--14684877652053__c5690cdb-c04d-45fd-9c6c-cfee011363ca-166585292003960893-2": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "All-Day Hydration",
+            "description": "<p>Keeps skin hydrated and prevents dryness or flakiness.<\/p>",
+            "type_icon": "img",
+            "icon": "<svg width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M15.0039 10.2464C14.9149 10.2464 14.8326 10.2005 14.7855 10.1252L11.8344 5.3944C11.785 5.31515 11.7824 5.21532 11.8278 5.13339C11.8731 5.05167 11.9594 5.00082 12.0528 5.00082L17.9181 5C18.0113 5 18.0971 5.05043 18.1426 5.13195C18.1883 5.21346 18.1861 5.31289 18.1373 5.39235L15.2229 10.1242C15.1762 10.1999 15.0936 10.2464 15.0045 10.2466L15.0039 10.2464ZM12.5166 5.51565L15.0024 9.50065L17.4574 5.51483L12.5166 5.51565Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M9.1197 10.2464C9.03098 10.2464 8.94884 10.2007 8.90171 10.1258L5.93524 5.39502C5.88542 5.31577 5.88274 5.21573 5.92803 5.1336C5.97332 5.05187 6.05957 5.00082 6.15323 5.00082L12.0528 5C12.1461 5 12.2321 5.05064 12.2776 5.13215C12.3231 5.21367 12.3208 5.31371 12.2716 5.39296L9.33831 10.1246C9.29138 10.2001 9.20904 10.2462 9.12011 10.2464H9.1197ZM6.61803 5.51565L9.11826 9.50292L11.5905 5.51483L6.61803 5.51565Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M9.12361 10.2464C9.12258 10.2464 9.12093 10.2466 9.11949 10.2464H3.26271C3.16967 10.2464 3.08383 10.1962 3.03834 10.1149C2.99264 10.0336 2.99449 9.93438 3.04307 9.85492L5.93359 5.1233C5.98011 5.04714 6.06245 5.00062 6.15179 5C6.1522 5 6.15281 5 6.15323 5C6.24195 5 6.32408 5.0457 6.37122 5.12063L9.31669 9.81828C9.35683 9.86377 9.38112 9.92347 9.38112 9.98893C9.38092 10.1314 9.26585 10.2464 9.12361 10.2464ZM3.72134 9.73182H8.65469L6.1559 5.7464L3.72134 9.73182Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M15.0077 10.2464C15.0067 10.2464 15.0053 10.2466 15.0036 10.2464H9.11968C9.02643 10.2464 8.94039 10.1958 8.8949 10.1143C8.8494 10.0328 8.85167 9.93273 8.90087 9.85348L11.834 5.12186C11.8809 5.04632 11.9635 5.00021 12.0524 5H12.0528C12.1417 5 12.2241 5.0459 12.2712 5.12124L15.201 9.81869C15.241 9.86418 15.2653 9.92367 15.2653 9.98893C15.2651 10.1314 15.15 10.2464 15.0077 10.2464ZM9.58181 9.73182H14.5401L12.0534 5.74476L9.58181 9.73182Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M20.8129 10.2464C20.8119 10.2464 20.8102 10.2466 20.8088 10.2464H15.0039C14.9106 10.2464 14.8248 10.196 14.7791 10.1145C14.7336 10.033 14.7359 9.93355 14.7847 9.8541L17.6988 5.12248C17.7458 5.04632 17.8287 5 17.9179 5H17.9183C18.0078 5.00021 18.0908 5.04693 18.1373 5.1233L21.0072 9.82054C21.0463 9.86562 21.07 9.9245 21.07 9.98893C21.0702 10.1314 20.9551 10.2464 20.8129 10.2464ZM15.4646 9.73182H20.3502L17.9172 5.7497L15.4646 9.73182Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M12.0856 19.3742C12.0158 19.3742 11.9491 19.3458 11.9007 19.2958L3.07233 10.1681C3.00049 10.094 2.98011 9.98362 3.02046 9.88873C3.0606 9.79363 3.15385 9.73187 3.25718 9.73187H20.809C20.9119 9.73187 21.005 9.79342 21.0455 9.88811C21.0859 9.9828 21.0661 10.0925 20.9949 10.1668L12.2715 19.2945C12.2233 19.3452 12.1562 19.374 12.0864 19.3742H12.0856ZM3.86402 10.2465L12.0843 18.7455L20.2071 10.2465H3.86402Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M12.0856 19.3741C11.9771 19.3741 11.876 19.305 11.841 19.1965L8.87496 10.0688C8.83091 9.93356 8.90501 9.78843 9.04005 9.74459C9.17591 9.70054 9.32062 9.77464 9.36426 9.90968L12.3301 19.0374C12.3742 19.1726 12.3001 19.3177 12.165 19.3616C12.1387 19.3702 12.1119 19.3741 12.0856 19.3741Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M12.0942 19.3741C12.0685 19.3741 12.0421 19.3702 12.016 19.362C11.8807 19.3188 11.8058 19.1741 11.8488 19.0386L14.7585 9.9109C14.8017 9.77587 14.945 9.70073 15.0819 9.74375C15.2171 9.78698 15.292 9.93169 15.249 10.0671L12.3393 19.195C12.3044 19.3044 12.2033 19.3741 12.0942 19.3741Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<\/svg>",
+            "image_icon": "shopify:\/\/shop_images\/Frame_11.png"
+          }
+        },
+        "4273663e-a3ea-49a8-a7c1-c872309fc99c": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "Protects Against Aging",
+            "description": "<p>Guards your skin against environmental stress and UV damage.<\/p>",
+            "type_icon": "img",
+            "icon": "<svg width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M13.2688 8.07846L15.103 6.33556C15.1932 6.24541 15.2232 6.09516 15.1631 5.97496L13.5093 3.15025C13.4492 3.0601 13.359 3 13.2387 3H9.96128C9.841 3 9.7508 3.0601 9.69066 3.15025L8.0369 5.97496C7.97677 6.09516 7.97677 6.24541 8.09704 6.33556L9.93121 8.07846C7.10478 8.82972 5 11.384 5 14.4491C5.03007 18.0551 7.97677 21 11.615 21C15.2533 21 18.2 18.0551 18.2 14.419C18.2 11.384 16.0952 8.79967 13.2688 8.07846ZM8.72847 6.06511L10.1718 3.57095H13.0884L14.5317 6.06511L12.5772 7.92821C12.2765 7.89816 11.9458 7.86811 11.6451 7.86811C11.3144 7.86811 11.0137 7.89816 10.713 7.92821L8.72847 6.06511ZM11.615 20.399C8.30752 20.399 5.63144 17.7245 5.63144 14.419C5.63144 11.1135 8.30752 8.46911 11.615 8.46911C14.9226 8.46911 17.5986 11.1436 17.5986 14.4491C17.5986 17.7546 14.9226 20.399 11.615 20.399Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.2\"><\/path>\n<\/svg>",
+            "image_icon": "shopify:\/\/shop_images\/Frame_12.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--14684877652053__c5690cdb-c04d-45fd-9c6c-cfee011363ca-166585292003960893-0",
+        "template--14684877652053__c5690cdb-c04d-45fd-9c6c-cfee011363ca-166585292003960893-1",
+        "template--14684877652053__c5690cdb-c04d-45fd-9c6c-cfee011363ca-166585292003960893-2",
+        "4273663e-a3ea-49a8-a7c1-c872309fc99c"
+      ],
+      "custom_css": [
+        "h5 {font-family: var(--g-font-2);}",
+        "h5 + div,h5 + div p {font-weight: 300; line-height: 1.4;}",
+        "h3.text-center {color: #6c3e24;}"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "bgsection": "#f9f7f1",
+        "title_top": "",
+        "title": "Unlock the Benefits of a Consistent Skincare Routine",
+        "des": "",
+        "align-heading": "center",
+        "paddingbox": "0px 0px 0px 0px",
+        "iconcolor": "#202025",
+        "titlecolor": "#000000",
+        "subcolor": "#000000",
+        "size": 60,
+        "service_heading": "h6",
+        "layout": "style-2",
+        "enable_carousel": false,
+        "arrows": false,
+        "draggable": true,
+        "dots": true,
+        "infinite": false,
+        "paddingsection": "30px 0px 30px 0px",
+        "paddingmobile": "30px 0px 10px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "1404f8e3-f0b1-4cc6-b70e-143230f78785": {
+      "type": "line",
+      "disabled": true,
+      "settings": {
+        "animation": "fade",
+        "paddingsection": "30px 0px 30px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "bgsection": "#ffffff",
+        "setwidth": "container-fluid",
+        "bgborder": "#202025",
+        "wborder": "1px"
+      }
+    },
+    "product_with_image_nPFdfa": {
+      "type": "product-with-image",
+      "blocks": {
+        "banner_LamxeK": {
+          "type": "banner",
+          "settings": {
+            "subtitle": "",
+            "title": "Start Your Day with These Essentials",
+            "size_text": "h3",
+            "subtext": "Begin your morning with products designed to cleanse, hydrate, and protect your skin, setting the tone for a radiant day.",
+            "pos_banner": "mid-center",
+            "button": "discover now",
+            "link": "",
+            "style_btn": "btn-underline btn-underline-white",
+            "image": "shopify:\/\/shop_images\/picture9_1.png",
+            "video": "",
+            "colortabimage": "#ffffff",
+            "bg-overlay": "#000000",
+            "bg-opacity": 0.1
+          }
+        },
+        "product_9fBBBc": {
+          "type": "product",
+          "settings": {
+            "product_list": [
+              "gentle-cleanser",
+              "gentle-cleanser-copy",
+              "hydrating-gel-or-moisturizer",
+              "sunscreen-spf-50"
+            ],
+            "column": "2",
+            "limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "banner_LamxeK",
+        "product_9fBBBc"
+      ],
+      "custom_css": [
+        ".section-block > h3.h3 {color: #fff;}"
+      ],
+      "settings": {
+        "animation": "",
+        "setwidth": "container",
+        "bgsection": "#6c3e24",
+        "title_top": "",
+        "title": "Day Care",
+        "des": "",
+        "align-heading": "center",
+        "enable_reverse": false,
+        "width_banner": 50,
+        "paddingsection": "40px 0px 40px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "slideshow_1_pkCdMy": {
+      "type": "slideshow-1",
+      "blocks": {
+        "image_NdFf4H": {
+          "type": "image",
+          "settings": {
+            "enable_video": false,
+            "video_hosted": "",
+            "image": "shopify:\/\/shop_images\/D_D_banners_1.png",
+            "alignment": "center center",
+            "text_alignment": "center center",
+            "bgwrap": "#f8ede7",
+            "show_overlay": false,
+            "gradient_overlay": false,
+            "bg_overlay": "#000000",
+            "opacity_overlay": 0,
+            "slide_toptitle": "",
+            "margin_title": 1.5,
+            "slide_toptitle_color": "#999999",
+            "slide_title": "",
+            "slide_title_color": "#ffffff",
+            "subheading": "",
+            "subheading_color": "#ffffff",
+            "button_label": "",
+            "button_link": "",
+            "stylebtns": "btn-theme",
+            "bg_button": "#000000",
+            "color_button": "#ffffff",
+            "bg_button_hover": "#ff6f2e",
+            "color_button_hover": "#ffffff",
+            "button_label_2": "",
+            "button_link_2": "",
+            "stylebtns_2": "btn-theme",
+            "bg_button_2": "#000000",
+            "color_button_2": "#ffffff",
+            "bg_button_hover_2": "#ff6f2e",
+            "color_button_hover_2": "#ffffff"
+          }
+        },
+        "image_X7ibNf": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "enable_video": false,
+            "video_hosted": "",
+            "image": "shopify:\/\/shop_images\/image_-_2025-03-06T103159.708.png",
+            "alignment": "center center",
+            "text_alignment": "center center",
+            "bgwrap": "#f8ede7",
+            "show_overlay": false,
+            "gradient_overlay": false,
+            "bg_overlay": "#000000",
+            "opacity_overlay": 0,
+            "slide_toptitle": "",
+            "margin_title": 1.5,
+            "slide_toptitle_color": "#999999",
+            "slide_title": "Each Product comes with its own set of benefits that when combined together enhances your skin to its best potential",
+            "slide_title_color": "#ffffff",
+            "subheading": "",
+            "subheading_color": "#ffffff",
+            "button_label": "",
+            "button_link": "",
+            "stylebtns": "btn-theme",
+            "bg_button": "#000000",
+            "color_button": "#ffffff",
+            "bg_button_hover": "#ff6f2e",
+            "color_button_hover": "#ffffff",
+            "button_label_2": "",
+            "button_link_2": "",
+            "stylebtns_2": "btn-theme",
+            "bg_button_2": "#000000",
+            "color_button_2": "#ffffff",
+            "bg_button_hover_2": "#ff6f2e",
+            "color_button_hover_2": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "image_NdFf4H",
+        "image_X7ibNf"
+      ],
+      "custom_css": [
+        "h2.h4.font-family-1 {max-width: 800px;}"
+      ],
+      "settings": {
+        "enable_slideshow": true,
+        "setwidthout": "full",
+        "slideshow_height_adapt": "adapt",
+        "slideshow_height_mobile": "adapt",
+        "setwidth": "container",
+        "slideshow_mobile": true,
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "anim_slideshow": "fade",
+        "e_arrow": false,
+        "color_arrow": "#000000",
+        "bg_arrow": "#ffffff",
+        "opacity_arrow": 1,
+        "e_dot": true,
+        "slide_dot": "square",
+        "color_dot_nav": "#000000",
+        "color_dot_active": "#c99a5c"
+      }
+    },
+    "product_with_image_Bj6zm8": {
+      "type": "product-with-image",
+      "blocks": {
+        "product_ECcNbb": {
+          "type": "product",
+          "settings": {
+            "product_list": [
+              "exfoliating-toner",
+              "repair-serum-retinol-serum-30ml",
+              "night-cream-50ml"
+            ],
+            "column": "2",
+            "limit": 4
+          }
+        },
+        "banner_wXRCW6": {
+          "type": "banner",
+          "settings": {
+            "subtitle": "",
+            "title": "Your Night Routine for Glowing Skin",
+            "size_text": "h3",
+            "subtext": "Wake up to radiant, healthy skin by following this nighttime regimen.",
+            "pos_banner": "mid-center",
+            "button": "discover now",
+            "link": "",
+            "style_btn": "btn-underline btn-underline-white",
+            "image": "shopify:\/\/shop_images\/picture_6_2.png",
+            "video": "",
+            "colortabimage": "#ffffff",
+            "bg-overlay": "#000000",
+            "bg-opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "product_ECcNbb",
+        "banner_wXRCW6"
+      ],
+      "custom_css": [
+        ".section-block > h3.h3 {color: #6c3e24;}"
+      ],
+      "settings": {
+        "animation": "",
+        "setwidth": "container",
+        "bgsection": "#e6e4de",
+        "title_top": "",
+        "title": "Night Care",
+        "des": "",
+        "align-heading": "center",
+        "enable_reverse": false,
+        "width_banner": 50,
+        "paddingsection": "40px 0px 40px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "slideshow_1_wDzx3K": {
+      "type": "slideshow-1",
+      "blocks": {
+        "image_cKYqJj": {
+          "type": "image",
+          "settings": {
+            "enable_video": false,
+            "video_hosted": "",
+            "image": "shopify:\/\/shop_images\/D_D_banners.png",
+            "alignment": "center center",
+            "text_alignment": "center center",
+            "bgwrap": "#f8ede7",
+            "show_overlay": false,
+            "gradient_overlay": false,
+            "bg_overlay": "#000000",
+            "opacity_overlay": 0,
+            "slide_toptitle": "",
+            "margin_title": 1.5,
+            "slide_toptitle_color": "#999999",
+            "slide_title": "",
+            "slide_title_color": "#ffffff",
+            "subheading": "",
+            "subheading_color": "#ffffff",
+            "button_label": "",
+            "button_link": "",
+            "stylebtns": "btn-theme",
+            "bg_button": "#000000",
+            "color_button": "#ffffff",
+            "bg_button_hover": "#ff6f2e",
+            "color_button_hover": "#ffffff",
+            "button_label_2": "",
+            "button_link_2": "",
+            "stylebtns_2": "btn-theme",
+            "bg_button_2": "#000000",
+            "color_button_2": "#ffffff",
+            "bg_button_hover_2": "#ff6f2e",
+            "color_button_hover_2": "#ffffff"
+          }
+        },
+        "image_UBQHbE": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "enable_video": false,
+            "video_hosted": "",
+            "image": "shopify:\/\/shop_images\/image_-_2025-03-06T124332.778.png",
+            "alignment": "center center",
+            "text_alignment": "center center",
+            "bgwrap": "#f8ede7",
+            "show_overlay": false,
+            "gradient_overlay": false,
+            "bg_overlay": "#000000",
+            "opacity_overlay": 0,
+            "slide_toptitle": "",
+            "margin_title": 1.5,
+            "slide_toptitle_color": "#999999",
+            "slide_title": "Each Product comes with its own set of benefits that when combined together enhances your skin to its best potential",
+            "slide_title_color": "#ffffff",
+            "subheading": "",
+            "subheading_color": "#ffffff",
+            "button_label": "",
+            "button_link": "",
+            "stylebtns": "btn-theme",
+            "bg_button": "#000000",
+            "color_button": "#ffffff",
+            "bg_button_hover": "#ff6f2e",
+            "color_button_hover": "#ffffff",
+            "button_label_2": "",
+            "button_link_2": "",
+            "stylebtns_2": "btn-theme",
+            "bg_button_2": "#000000",
+            "color_button_2": "#ffffff",
+            "bg_button_hover_2": "#ff6f2e",
+            "color_button_hover_2": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "image_cKYqJj",
+        "image_UBQHbE"
+      ],
+      "custom_css": [
+        "h2.h4.font-family-1 {max-width: 800px;}"
+      ],
+      "settings": {
+        "enable_slideshow": true,
+        "setwidthout": "full",
+        "slideshow_height_adapt": "adapt",
+        "slideshow_height_mobile": "adapt",
+        "setwidth": "container",
+        "slideshow_mobile": true,
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "anim_slideshow": "fade",
+        "e_arrow": false,
+        "color_arrow": "#000000",
+        "bg_arrow": "#ffffff",
+        "opacity_arrow": 1,
+        "e_dot": true,
+        "slide_dot": "square",
+        "color_dot_nav": "#000000",
+        "color_dot_active": "#c99a5c"
+      }
+    },
+    "quotes_special_GUL6KH": {
+      "type": "quotes-special",
+      "blocks": {
+        "quote_aRJecD": {
+          "type": "quote",
+          "settings": {
+            "title": "Game-Changing Night Routine",
+            "quote": "\"I’ve been following the recommended skincare routine for a few months, and the results are incredible! My skin has never felt this hydrated and smooth. The night routine products work wonders—highly recommended!\"",
+            "rate": 5,
+            "author": "— Emily R.",
+            "info": "",
+            "avatar": "shopify:\/\/shop_images\/Your_skin_deserves_more_than_a_quick_fix_it_s_a_skinvestment_in_lasting_beauty._Nourish_protect_and_glow_with_confidence_every_day._1.png",
+            "product_item": "",
+            "product_style": "light"
+          }
+        }
+      },
+      "block_order": [
+        "quote_aRJecD"
+      ],
+      "custom_css": [
+        ".section-block h3.h5 {color: #f3ebde;}",
+        ".subtop.pb-3 {color: #f3ebde; font-family: \"PP_Hatton_Medium\"; font-weight: 200;}"
+      ],
+      "settings": {
+        "animation": "",
+        "setwidth": "container",
+        "bgsection": "#6c3e24",
+        "title_top": "",
+        "title": "Loved by Our Customers Read Their Stories",
+        "des": "",
+        "align-heading": "center",
+        "color_rate": "#f3ebde",
+        "color_rated": "#f3ebde",
+        "image_size": "auto",
+        "size_text": "p",
+        "arrows": false,
+        "draggable": true,
+        "dots": true,
+        "infinite": true,
+        "paddingsection": "40px 0px 0px 0px",
+        "paddingmobile": "40px 0px 10px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "a8f171de-121d-4760-a556-1ad8436ec966": {
+      "type": "product-list-swiper",
+      "disabled": true,
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container-fluid",
+        "e_size": "auto",
+        "e_repeat": "no-repeat",
+        "e_position": "center center",
+        "bgsection": "#ffffff",
+        "title_color": "rgba(0,0,0,0)",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "left",
+        "collection": "new-arrivals",
+        "limit": 8,
+        "perviewDesktop": 5,
+        "spaceBetween": 16,
+        "nowrap": true,
+        "arrows": true,
+        "scrollbar": false,
+        "buttonall": "",
+        "buttonall_link": "",
+        "style_btn": "btn-theme",
+        "enable_first_banner": true,
+        "width_banner": 30,
+        "subtitle_banner": "",
+        "title_banner": "TREAT YOURSELF TO SAVINGS.",
+        "size_text": "h4",
+        "des_banner": "",
+        "pos_banner": "bot-center",
+        "button_banner": "FIND OUT MORE",
+        "link_banner": "shopify:\/\/collections\/necklaces",
+        "style_btn_banner": "btn-theme btn-white",
+        "text_banner_color": "#ffffff",
+        "overlay_banner": "#000000",
+        "opacity_banner": 0,
+        "paddingsection": "100px 0px 100px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "3fb03ff7-25ae-4f7b-8179-3e29c80906fd": {
+      "type": "line",
+      "disabled": true,
+      "settings": {
+        "animation": "",
+        "paddingsection": "0px 0px 0px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "bgsection": "#ffffff",
+        "setwidth": "full",
+        "bgborder": "#343a40",
+        "wborder": "1px"
+      }
+    },
+    "42c9748e-ce08-4187-92e7-c4e3c162c249": {
+      "type": "scrolling-text",
+      "blocks": {
+        "64a86fcc-5780-4321-b196-3f525aeab9e9": {
+          "type": "item",
+          "settings": {
+            "code": "OUR STORES"
+          }
+        },
+        "template--21125500633368__42c9748e-ce08-4187-92e7-c4e3c162c249-item-1": {
+          "type": "item",
+          "settings": {
+            "code": "VANCOUVER"
+          }
+        },
+        "867ea529-0999-4c33-b6fc-903cd11ddf0a": {
+          "type": "item",
+          "settings": {
+            "code": "BOSTON"
+          }
+        },
+        "167986bb-a372-4154-82a8-ac048b530b89": {
+          "type": "item",
+          "settings": {
+            "code": "CHICAGO"
+          }
+        },
+        "8f2bd15b-7c21-4242-beb5-cf4d8248db3f": {
+          "type": "item",
+          "settings": {
+            "code": "TORONTO"
+          }
+        }
+      },
+      "block_order": [
+        "64a86fcc-5780-4321-b196-3f525aeab9e9",
+        "template--21125500633368__42c9748e-ce08-4187-92e7-c4e3c162c249-item-1",
+        "867ea529-0999-4c33-b6fc-903cd11ddf0a",
+        "167986bb-a372-4154-82a8-ac048b530b89",
+        "8f2bd15b-7c21-4242-beb5-cf4d8248db3f"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".textscroll-item {font-size: 24px; font-weight: bold;}"
+      ],
+      "settings": {
+        "animation": "fade",
+        "size_text": "p",
+        "text_style": "solid",
+        "size_icon": 24,
+        "speed": 20,
+        "scroll_type": "from-right",
+        "background": "#f2ebb0",
+        "gradient_bg": "",
+        "text": "#202025",
+        "paddingsection": "16px 0px 16px 0px",
+        "paddingmobile": "16px 0px 16px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "de3afa49-731d-45e9-8368-e958ae35cfff": {
+      "type": "line",
+      "disabled": true,
+      "settings": {
+        "animation": "",
+        "paddingsection": "0px 0px 0px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "bgsection": "#ffffff",
+        "setwidth": "full",
+        "bgborder": "#343a40",
+        "wborder": "1px"
+      }
+    },
+    "92f0a295-b138-41fa-9620-bf11ee35918a": {
+      "type": "featured-collections-3",
+      "blocks": {
+        "template--21581222871313__92f0a295-b138-41fa-9620-bf11ee35918a-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "aging-skin",
+            "enable_customize": true,
+            "text_customize": "Most Gifted",
+            "url_customize": ""
+          }
+        },
+        "template--21581222871313__92f0a295-b138-41fa-9620-bf11ee35918a-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "bundles",
+            "enable_customize": false,
+            "text_customize": "Shop now",
+            "url_customize": ""
+          }
+        },
+        "template--21581222871313__92f0a295-b138-41fa-9620-bf11ee35918a-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "dryness",
+            "enable_customize": false,
+            "text_customize": "Shop now",
+            "url_customize": ""
+          }
+        },
+        "4b6dd5f0-51d1-468a-a89d-230ac96834c7": {
+          "type": "collection",
+          "settings": {
+            "collection": "dullness",
+            "enable_customize": false,
+            "text_customize": "Shop now",
+            "url_customize": ""
+          }
+        },
+        "971414fe-7d58-4a86-a416-834dc8b15cad": {
+          "type": "collection",
+          "settings": {
+            "collection": "vitamin-c",
+            "enable_customize": true,
+            "text_customize": "Vitamin C",
+            "url_customize": ""
+          }
+        },
+        "4aa24cd2-be24-437f-996d-796d26f616e0": {
+          "type": "collection",
+          "settings": {
+            "collection": "vitamin-e",
+            "enable_customize": true,
+            "text_customize": "Vitamin E",
+            "url_customize": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21581222871313__92f0a295-b138-41fa-9620-bf11ee35918a-collection-1",
+        "template--21581222871313__92f0a295-b138-41fa-9620-bf11ee35918a-collection-2",
+        "template--21581222871313__92f0a295-b138-41fa-9620-bf11ee35918a-collection-3",
+        "4b6dd5f0-51d1-468a-a89d-230ac96834c7",
+        "971414fe-7d58-4a86-a416-834dc8b15cad",
+        "4aa24cd2-be24-437f-996d-796d26f616e0"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".title-collection {font-style: italic; text-align: left;}"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container-fluid",
+        "bgsection": "#ffffff",
+        "title_top": "",
+        "title": "Shop By Categories",
+        "des": "",
+        "align-heading": "left",
+        "stylecollection": "name",
+        "size_image_col": "portrait",
+        "enable_count_item": false,
+        "enable_gradient": false,
+        "color": "#000000",
+        "bg_overlay": "#222222",
+        "opacity_overlay": 0,
+        "size_title": "h5",
+        "style_btn": "btn-outline",
+        "button_link": "",
+        "button": "Discover All Collections",
+        "perviewDesktop": 5,
+        "spaceBetween": 16,
+        "nowrap": true,
+        "arrows": true,
+        "scrollbar": false,
+        "paddingsection": "100px 0px 100px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "7c7a673f-3f30-439d-a22a-c810ccd72d45": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--21719737827601__7c7a673f-3f30-439d-a22a-c810ccd72d45-html-1": {
+          "type": "html",
+          "settings": {
+            "subtitle": "",
+            "title": "Give Boldly",
+            "size_text": "h2",
+            "code": "Discover the perfect gift for everyone on your list. Plus, make the finishing touches as perfect as the main event with our NEW luxury gift box.",
+            "answer_content": "",
+            "style_btn": "btn-outline",
+            "button": "Personalised Gifts",
+            "link": "shopify:\/\/collections",
+            "width": "33%",
+            "align": "auto"
+          }
+        },
+        "5fb5f413-8356-4e8f-bdfb-946cee4ea786": {
+          "type": "video",
+          "settings": {
+            "width": "66%",
+            "align": "auto",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=HLhJ798sRtU",
+            "text_circle": "Cadiant jewelry store",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--21719737827601__7c7a673f-3f30-439d-a22a-c810ccd72d45-html-1",
+        "5fb5f413-8356-4e8f-bdfb-946cee4ea786"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".video-section__cover-background {border-bottom-right-radius: 40%;}",
+        "@media (min-width: 990px) {.grid__item-inner--html {padding-right: 2rem; }}"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container-fluid",
+        "text_color": "rgba(0,0,0,0)",
+        "bgsection": "#ffffff",
+        "rangebg": 0,
+        "bgbefore": "rgba(0,0,0,0)",
+        "e_size": "auto",
+        "e_repeat": "no-repeat",
+        "e_position": "center center",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "center",
+        "padding": true,
+        "gutter_padding": 30,
+        "col_center": false,
+        "paddingsection": "100px 0px 0px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "1660192674d8a6fd50": {
+      "type": "featured-articles",
+      "disabled": true,
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "title_color": "rgba(0,0,0,0)",
+        "title_top": "",
+        "title": "Latest Articles",
+        "des": "Subscribe for latest news and blog updates from our editor.",
+        "align-heading": "left",
+        "blog": "news",
+        "item_style": "blog-1",
+        "enable_btn_blog": true,
+        "style_btn": "btn-theme btn-sm",
+        "enable_date": true,
+        "enable_tag": true,
+        "enable_comment": true,
+        "enable_short": false,
+        "image_size": "landscape",
+        "gutter_padding": 50,
+        "arrows": true,
+        "draggable": true,
+        "dots": true,
+        "infinite": true,
+        "rows": "1",
+        "limit": 3,
+        "show": 3,
+        "paddingsection": "60px 0px 40px 0px",
+        "paddingmobile": "60px 0px 60px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "video_multicolumn_nhhWeQ": {
+      "type": "video-multicolumn",
+      "blocks": {
+        "column_wtUQRh": {
+          "type": "column",
+          "settings": {
+            "enable_video_looping": false,
+            "video": "shopify:\/\/files\/videos\/892bf895b50c4c0380144509c7d5d6ff.SD-480p-0.9Mbps-25760715.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "cover_image": "shopify:\/\/shop_images\/image_-_2025-03-06T145510.229.png",
+            "product": "test"
+          }
+        },
+        "column_Gb8YdC": {
+          "type": "column",
+          "settings": {
+            "enable_video_looping": false,
+            "video": "shopify:\/\/files\/videos\/892bf895b50c4c0380144509c7d5d6ff.SD-480p-0.9Mbps-25760715.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "cover_image": "shopify:\/\/shop_images\/image_-_2025-03-06T145510.229.png",
+            "product": "test"
+          }
+        },
+        "column_y7aUwa": {
+          "type": "column",
+          "settings": {
+            "enable_video_looping": false,
+            "video": "shopify:\/\/files\/videos\/892bf895b50c4c0380144509c7d5d6ff.SD-480p-0.9Mbps-25760715.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "cover_image": "shopify:\/\/shop_images\/image_-_2025-03-06T145510.229.png",
+            "product": "test"
+          }
+        },
+        "column_4iXDDi": {
+          "type": "column",
+          "settings": {
+            "enable_video_looping": false,
+            "video": "shopify:\/\/files\/videos\/892bf895b50c4c0380144509c7d5d6ff.SD-480p-0.9Mbps-25760715.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "cover_image": "shopify:\/\/shop_images\/image_-_2025-03-06T145510.229.png",
+            "product": "test"
+          }
+        },
+        "column_BEpQWw": {
+          "type": "column",
+          "settings": {
+            "enable_video_looping": false,
+            "video": "shopify:\/\/files\/videos\/892bf895b50c4c0380144509c7d5d6ff.SD-480p-0.9Mbps-25760715.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "cover_image": "shopify:\/\/shop_images\/image_-_2025-03-06T145510.229.png",
+            "product": "test"
+          }
+        },
+        "column_qPdJzw": {
+          "type": "column",
+          "settings": {
+            "enable_video_looping": false,
+            "video": "shopify:\/\/files\/videos\/892bf895b50c4c0380144509c7d5d6ff.SD-480p-0.9Mbps-25760715.mp4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "cover_image": "shopify:\/\/shop_images\/image_-_2025-03-06T145510.229.png",
+            "product": "test"
+          }
+        }
+      },
+      "block_order": [
+        "column_wtUQRh",
+        "column_Gb8YdC",
+        "column_y7aUwa",
+        "column_4iXDDi",
+        "column_BEpQWw",
+        "column_qPdJzw"
+      ],
+      "settings": {
+        "title": "Products In Use",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "columns_mobile": "1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "service_Cy3imV": {
+      "type": "service",
+      "blocks": {
+        "service_j7RcyH": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "Cruelty-Free & Eco-Friendly",
+            "description": "<p>We are committed to ethical skincare, ensuring that all our products are cruelty-free and environmentally conscious.<\/p>",
+            "type_icon": "img",
+            "icon": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-package\" viewbox=\"0 0 64 64\"><path d=\"M32 54.52L10 41.95v-19.9L32 9.48l22 12.57v19.9L32 54.52z\"><\/path><path d=\"M32 54.52v-19.9l22-12.57M32 34.62L10 22.05M41.7 15.02L21 28.33v8.38\"><\/path><\/svg>",
+            "image_icon": "shopify:\/\/shop_images\/Mask_group_133c3d63-b385-4fd8-a102-fc9a4906b4eb.png"
+          }
+        },
+        "service_GYQHbj": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "Easy-to-Follow Skincare Routine",
+            "description": "<p>Our step-by-step skincare guides make it simple for everyone to achieve healthy, beautiful skin without the hassle.<\/p>",
+            "type_icon": "img",
+            "icon": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-truck\" viewbox=\"0 0 64 64\"><path d=\"M16.5 43.22H6.88V16.5h33.14v26.72H23.94M45.42 43.22h-5.4V30.4h17.1v12.82h-4.23M57.12 30.4l-6.41-8.56H40.02\"><\/path><circle cx=\"20.24\" cy=\"43.76\" r=\"3.74\"><\/circle><path d=\"M45.42 43.23a3.82 3.82 0 1 1 0 .37v-.37\"><\/path><\/svg>",
+            "image_icon": "shopify:\/\/shop_images\/Mask_group.png"
+          }
+        },
+        "service_G6UcQU": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "Suitable for All Skin Types",
+            "description": "<p>From dry to oily, sensitive to combination, our products are suitable for every skin type and concern.<\/p>",
+            "type_icon": "img",
+            "icon": "<svg width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M15.0039 10.2464C14.9149 10.2464 14.8326 10.2005 14.7855 10.1252L11.8344 5.3944C11.785 5.31515 11.7824 5.21532 11.8278 5.13339C11.8731 5.05167 11.9594 5.00082 12.0528 5.00082L17.9181 5C18.0113 5 18.0971 5.05043 18.1426 5.13195C18.1883 5.21346 18.1861 5.31289 18.1373 5.39235L15.2229 10.1242C15.1762 10.1999 15.0936 10.2464 15.0045 10.2466L15.0039 10.2464ZM12.5166 5.51565L15.0024 9.50065L17.4574 5.51483L12.5166 5.51565Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M9.1197 10.2464C9.03098 10.2464 8.94884 10.2007 8.90171 10.1258L5.93524 5.39502C5.88542 5.31577 5.88274 5.21573 5.92803 5.1336C5.97332 5.05187 6.05957 5.00082 6.15323 5.00082L12.0528 5C12.1461 5 12.2321 5.05064 12.2776 5.13215C12.3231 5.21367 12.3208 5.31371 12.2716 5.39296L9.33831 10.1246C9.29138 10.2001 9.20904 10.2462 9.12011 10.2464H9.1197ZM6.61803 5.51565L9.11826 9.50292L11.5905 5.51483L6.61803 5.51565Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M9.12361 10.2464C9.12258 10.2464 9.12093 10.2466 9.11949 10.2464H3.26271C3.16967 10.2464 3.08383 10.1962 3.03834 10.1149C2.99264 10.0336 2.99449 9.93438 3.04307 9.85492L5.93359 5.1233C5.98011 5.04714 6.06245 5.00062 6.15179 5C6.1522 5 6.15281 5 6.15323 5C6.24195 5 6.32408 5.0457 6.37122 5.12063L9.31669 9.81828C9.35683 9.86377 9.38112 9.92347 9.38112 9.98893C9.38092 10.1314 9.26585 10.2464 9.12361 10.2464ZM3.72134 9.73182H8.65469L6.1559 5.7464L3.72134 9.73182Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M15.0077 10.2464C15.0067 10.2464 15.0053 10.2466 15.0036 10.2464H9.11968C9.02643 10.2464 8.94039 10.1958 8.8949 10.1143C8.8494 10.0328 8.85167 9.93273 8.90087 9.85348L11.834 5.12186C11.8809 5.04632 11.9635 5.00021 12.0524 5H12.0528C12.1417 5 12.2241 5.0459 12.2712 5.12124L15.201 9.81869C15.241 9.86418 15.2653 9.92367 15.2653 9.98893C15.2651 10.1314 15.15 10.2464 15.0077 10.2464ZM9.58181 9.73182H14.5401L12.0534 5.74476L9.58181 9.73182Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M20.8129 10.2464C20.8119 10.2464 20.8102 10.2466 20.8088 10.2464H15.0039C14.9106 10.2464 14.8248 10.196 14.7791 10.1145C14.7336 10.033 14.7359 9.93355 14.7847 9.8541L17.6988 5.12248C17.7458 5.04632 17.8287 5 17.9179 5H17.9183C18.0078 5.00021 18.0908 5.04693 18.1373 5.1233L21.0072 9.82054C21.0463 9.86562 21.07 9.9245 21.07 9.98893C21.0702 10.1314 20.9551 10.2464 20.8129 10.2464ZM15.4646 9.73182H20.3502L17.9172 5.7497L15.4646 9.73182Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M12.0856 19.3742C12.0158 19.3742 11.9491 19.3458 11.9007 19.2958L3.07233 10.1681C3.00049 10.094 2.98011 9.98362 3.02046 9.88873C3.0606 9.79363 3.15385 9.73187 3.25718 9.73187H20.809C20.9119 9.73187 21.005 9.79342 21.0455 9.88811C21.0859 9.9828 21.0661 10.0925 20.9949 10.1668L12.2715 19.2945C12.2233 19.3452 12.1562 19.374 12.0864 19.3742H12.0856ZM3.86402 10.2465L12.0843 18.7455L20.2071 10.2465H3.86402Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M12.0856 19.3741C11.9771 19.3741 11.876 19.305 11.841 19.1965L8.87496 10.0688C8.83091 9.93356 8.90501 9.78843 9.04005 9.74459C9.17591 9.70054 9.32062 9.77464 9.36426 9.90968L12.3301 19.0374C12.3742 19.1726 12.3001 19.3177 12.165 19.3616C12.1387 19.3702 12.1119 19.3741 12.0856 19.3741Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<path d=\"M12.0942 19.3741C12.0685 19.3741 12.0421 19.3702 12.016 19.362C11.8807 19.3188 11.8058 19.1741 11.8488 19.0386L14.7585 9.9109C14.8017 9.77587 14.945 9.70073 15.0819 9.74375C15.2171 9.78698 15.292 9.93169 15.249 10.0671L12.3393 19.195C12.3044 19.3044 12.2033 19.3741 12.0942 19.3741Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.1\"><\/path>\n<\/svg>",
+            "image_icon": "shopify:\/\/shop_images\/Mask_group-1.png"
+          }
+        },
+        "service_hcKWL8": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "Fast and Reliable Delivery",
+            "description": "<p>We ensure your skincare products reach you quickly, so you can start your journey to healthier skin sooner.<\/p>",
+            "type_icon": "img",
+            "icon": "<svg width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M13.2688 8.07846L15.103 6.33556C15.1932 6.24541 15.2232 6.09516 15.1631 5.97496L13.5093 3.15025C13.4492 3.0601 13.359 3 13.2387 3H9.96128C9.841 3 9.7508 3.0601 9.69066 3.15025L8.0369 5.97496C7.97677 6.09516 7.97677 6.24541 8.09704 6.33556L9.93121 8.07846C7.10478 8.82972 5 11.384 5 14.4491C5.03007 18.0551 7.97677 21 11.615 21C15.2533 21 18.2 18.0551 18.2 14.419C18.2 11.384 16.0952 8.79967 13.2688 8.07846ZM8.72847 6.06511L10.1718 3.57095H13.0884L14.5317 6.06511L12.5772 7.92821C12.2765 7.89816 11.9458 7.86811 11.6451 7.86811C11.3144 7.86811 11.0137 7.89816 10.713 7.92821L8.72847 6.06511ZM11.615 20.399C8.30752 20.399 5.63144 17.7245 5.63144 14.419C5.63144 11.1135 8.30752 8.46911 11.615 8.46911C14.9226 8.46911 17.5986 11.1436 17.5986 14.4491C17.5986 17.7546 14.9226 20.399 11.615 20.399Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.2\"><\/path>\n<\/svg>",
+            "image_icon": "shopify:\/\/shop_images\/Mask_group-2.png"
+          }
+        }
+      },
+      "block_order": [
+        "service_j7RcyH",
+        "service_GYQHbj",
+        "service_G6UcQU",
+        "service_hcKWL8"
+      ],
+      "custom_css": [
+        "h5 + div,h5 + div p {font-weight: 300; line-height: 1.4; color: #f3ebde;}"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "bgsection": "#6c3e24",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "center",
+        "paddingbox": "0px 0px 0px 0px",
+        "iconcolor": "#f3ebde",
+        "titlecolor": "#f3ebde",
+        "subcolor": "#f3ebde",
+        "size": 55,
+        "service_heading": "h6",
+        "layout": "style-2",
+        "enable_carousel": false,
+        "arrows": false,
+        "draggable": true,
+        "dots": true,
+        "infinite": false,
+        "paddingsection": "30px 0px 60px 0px",
+        "paddingmobile": "10px 0px 10px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "1660925094098c539e": {
+      "type": "instagram-customize",
+      "blocks": {
+        "1660925094098c539e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_4.jpg",
+            "image_link": "#"
+          }
+        },
+        "image_EFFV9a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_3.jpg",
+            "image_link": "#"
+          }
+        },
+        "image_RtAHg6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image-3.jpg",
+            "image_link": "#"
+          }
+        },
+        "image_gN3VqB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image-1.jpg",
+            "image_link": "#"
+          }
+        },
+        "image_k7t7tW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image-4.jpg",
+            "image_link": "#"
+          }
+        },
+        "image_bm6nWD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image-1_1.jpg",
+            "image_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "1660925094098c539e-1",
+        "image_EFFV9a",
+        "image_RtAHg6",
+        "image_gN3VqB",
+        "image_k7t7tW",
+        "image_bm6nWD"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".section-block > h3.h3 {color: #6c3e24;}",
+        ".subtop.text-center {color: #000000; letter-spacing: 0; font-weight: 200;}"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "full",
+        "bgsection": "#f9f7f1",
+        "title_top": "Follow us on",
+        "title": "#Instagram",
+        "des": "",
+        "align-heading": "center",
+        "image_size": "square",
+        "enable_carousel": true,
+        "arrows": true,
+        "draggable": true,
+        "dots": false,
+        "infinite": true,
+        "column": 4,
+        "show": 8,
+        "padding": true,
+        "gutter_padding": 20,
+        "paddingsection": "50px 0px 50px 0px",
+        "paddingmobile": "40px 0px 30px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "advanced_content_XQKbRq": {
+      "type": "advanced-content",
+      "blocks": {
+        "html_p7HNXb": {
+          "type": "html",
+          "settings": {
+            "subtitle": "",
+            "title": "",
+            "size_text": "h3",
+            "code": "",
+            "answer_content": "",
+            "style_btn": "btn-underline btn-underline-white",
+            "button": "",
+            "link": "",
+            "width": "33%",
+            "align": "auto"
+          }
+        }
+      },
+      "block_order": [
+        "html_p7HNXb"
+      ],
+      "custom_css": [
+        ".section-block > h3.h3 {color: #6c3e24;}",
+        ".subtop.text-center {color: #000000; letter-spacing: 0; font-weight: 200;}"
+      ],
+      "settings": {
+        "animation": "",
+        "setwidth": "container",
+        "text_color": "rgba(0,0,0,0)",
+        "bgsection": "#f9f7f1",
+        "rangebg": 0,
+        "bgbefore": "transparent",
+        "e_size": "auto",
+        "e_repeat": "no-repeat",
+        "e_position": "center center",
+        "title_top": "Follow us on",
+        "title": "#Instagram",
+        "des": "",
+        "align-heading": "center",
+        "padding": true,
+        "gutter_padding": 30,
+        "col_center": false,
+        "paddingsection": "30px 0px 0px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "1743166921b2dc1ec5": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_haajMj": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_haajMj"
+      ],
+      "settings": {
+        "animation": "",
+        "setwidth": "full",
+        "paddingsection": "0px 0px 30px 0px",
+        "paddingmobile": "60px 0px 60px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px",
+        "bgsection": "#f9f7f1"
+      }
+    }
+  },
+  "order": [
+    "16485444103c52f5e9",
+    "1404f8e3-f0b1-4cc6-b70e-143230f78785",
+    "product_with_image_nPFdfa",
+    "slideshow_1_pkCdMy",
+    "product_with_image_Bj6zm8",
+    "slideshow_1_wDzx3K",
+    "quotes_special_GUL6KH",
+    "a8f171de-121d-4760-a556-1ad8436ec966",
+    "3fb03ff7-25ae-4f7b-8179-3e29c80906fd",
+    "42c9748e-ce08-4187-92e7-c4e3c162c249",
+    "de3afa49-731d-45e9-8368-e958ae35cfff",
+    "92f0a295-b138-41fa-9620-bf11ee35918a",
+    "7c7a673f-3f30-439d-a22a-c810ccd72d45",
+    "1660192674d8a6fd50",
+    "video_multicolumn_nhhWeQ",
+    "service_Cy3imV",
+    "1660925094098c539e",
+    "advanced_content_XQKbRq",
+    "1743166921b2dc1ec5"
+  ]
+}
